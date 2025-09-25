@@ -1,0 +1,15 @@
+# Ignorer les fichiers de sortie HTML
+*.html
+output/
+
+# Ignorer les gros fichiers CSV
+*.csv
+
+# Ignorer les fichiers temporaires Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
